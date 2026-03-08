@@ -1,0 +1,6 @@
+repair_center_id,location,daily_capacity_index,efficiency_factor
+RC01,"Dallas, TX",95,0.95
+RC02,"Phoenix, AZ",80,1.05
+RC03,"Miami, FL",70,1.1
+RC04,"Wichita, KS",88,0.9
+RC05,"Cincinnati, OH",76,1.15

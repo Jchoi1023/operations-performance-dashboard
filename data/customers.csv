@@ -1,0 +1,16 @@
+airline_code,airline_name,region,account_tier,contract_type
+DL,Delta Air Lines,North America,Core,Full Service
+UA,United Airlines,North America,Growth,Full Service
+AA,American Airlines,North America,Growth,Time & Materials
+WN,Southwest Airlines,North America,Core,Full Service
+AS,Alaska Airlines,North America,Strategic,Full Service
+B6,JetBlue,North America,Strategic,Time & Materials
+AC,Air Canada,North America,Strategic,Full Service
+BA,British Airways,Europe,Growth,Full Service
+LH,Lufthansa,Europe,Core,Full Service
+AF,Air France,Europe,Core,Time & Materials
+EK,Emirates,Middle East,Strategic,Time & Materials
+QR,Qatar Airways,Middle East,Growth,Full Service
+SQ,Singapore Airlines,Asia,Growth,Time & Materials
+NH,ANA,Asia,Strategic,Time & Materials
+QF,Qantas,Oceania,Strategic,Full Service
