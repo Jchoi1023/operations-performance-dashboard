@@ -1,6 +1,6 @@
 # Operations Performance Dashboard
 
-![Operations Dashboard](img/Ops_Performance.png)
+![Operations Dashboard](img/Ops Performance.png)
 
 An end-to-end analytics project built using **PostgreSQL** and **Tableau** to analyze aircraft repair operations.  
 This dashboard helps identify repair center performance issues, customer repair demand, and operational trends over time.
@@ -83,7 +83,6 @@ From the dashboard analysis:
 - Repair demand **peaks around April**.
 - SLA miss rates vary across repair centers, indicating operational performance differences.
 
----
 
-## Repository Structure
+
 
